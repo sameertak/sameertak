@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Google Data Analytics Course**
 
-- 👨‍💻 All of my projects are available at [http://samir0951.pythonanywhere.com/](http://samir0951.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](http://samir0951.pythonanywhere.com/)
 
 - 📫 How to reach me **taksamir08@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T9WDbsaDDunaICnGlPMQXj42FwhxWowG/view?usp=sharing](https://drive.google.com/file/d/1T9WDbsaDDunaICnGlPMQXj42FwhxWowG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T9WDbsaDDunaICnGlPMQXj42FwhxWowG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
