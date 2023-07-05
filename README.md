@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samir Tak</h1>
-<h3 align="center">A future data analyst. Have a grasp on Web Development also.</h3>
+<h3 align="center">Undergoing Trining for Odoo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameertak&label=Profile%20views&color=0e75b6&style=flat" alt="sameertak" /> </p>
 
 
-- 🌱 I’m currently learning **Google Data Analytics Course**
+- 🌱 I’m currently learning **Odoo ERP System**
 
 - 👨‍💻 All of my projects are available at **[Portfolio](http://samir0951.pythonanywhere.com/)**
 
