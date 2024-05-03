@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samir Tak</h1>
-<h3 align="center">Web Developer/ML/AI</h3>
+<h3 align="center">Web/AI/ML Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameertak&label=Profile%20views&color=0e75b6&style=flat" alt="sameertak" /> </p>
 
-
-- 🌱 I’m currently learning **Odoo ERP System**
-
-- 👨‍💻 All of my projects are available at **[Portfolio](http://samir0951.pythonanywhere.com/)**
+- 👨‍💻 Checkout my portfolio at **[Portfolio](http://samir0951.pythonanywhere.com/)**
 
 - 📫 How to reach me **taksamir08@gmail.com**
 
